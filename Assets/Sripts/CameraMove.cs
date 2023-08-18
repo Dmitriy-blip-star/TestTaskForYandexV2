@@ -1,5 +1,4 @@
 using Assets.Scripts;
-using UnityEditorInternal;
 using UnityEngine;
 
 public class CameraMove : MonoBehaviour

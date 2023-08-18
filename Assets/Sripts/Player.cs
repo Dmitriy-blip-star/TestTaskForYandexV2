@@ -42,7 +42,6 @@ namespace Assets.Scripts
 
         private void PrintInfo(int info)
         {
-            Debug.Log(info);
             InfoPrinted?.Invoke(info);
         }
     }
